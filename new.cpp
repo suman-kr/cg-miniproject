@@ -1,3 +1,4 @@
+//g++ new.cpp -std=c++14 -lGLU -lGL -lglut && ./a.out
 #include<bits/stdc++.h>
 #include <GL/glut.h>
 using namespace std;
