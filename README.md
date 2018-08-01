@@ -17,6 +17,7 @@ apt install freeglut3 freeglut3-dev mesa-common-dev
 ```sh
 g++ prg.cpp -std=c++14 -lGLU -lGL -lglut && ./a.out
 ```
+### Screenshots
 
 ![alt text](https://github.com/suman-kr/cg-miniproject/blob/master/Screenshot/1.png)
 ![alt text](https://github.com/suman-kr/cg-miniproject/blob/master/Screenshot/2.png)
