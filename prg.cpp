@@ -56,7 +56,7 @@ void tostring(char str[], long int num)
         len++;
         n /= 10;
     }
-    for (i = 0; i < len; i++)
+    for (i = 0; i < len; i++ )
     {
         rem = num % 10;
         num = num / 10;
