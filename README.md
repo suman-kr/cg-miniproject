@@ -11,6 +11,10 @@
 
 ```sh
 apt install freeglut3 freeglut3-dev mesa-common-dev 
+```
+
+### Execution
+```sh
 g++ prg.cpp -std=c++14 -lGLU -lGL -lglut && ./a.out
 ```
 
