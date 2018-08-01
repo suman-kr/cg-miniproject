@@ -33,7 +33,7 @@ void shared_secret()
 	shared = (((long long int)pow(pb,a)) % prime);
 	printf("shared secret:%lld\n",shared);
 }
-int isPrime(int n )
+int isPrime(int n)
 {
 	int i,c=0;
 	for(i=1;i<n;i++)
